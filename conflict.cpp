@@ -23,7 +23,7 @@ Reverts and Breaking Changes: For reverts, use the revert type and reference the
 
 By following these practices, teams can maintain a clean, searchable commit history that enhances collaboration and simplifies long-term project maintenance.)";
 
-    cout << paragraph << endl;
+    cout << paragraph << "Arising conflict situation" << endl;
 
     return 0;
 }
